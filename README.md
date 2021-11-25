@@ -16,7 +16,7 @@ permalink: /about/
 
 – CTF Player
 
-– Coffee Addict*   
+– Coffee Addict   
 <br><br>
 
 > *“I am always doing that which I cannot do, in order that I may learn how to do it.”*
@@ -46,10 +46,7 @@ One of my hobbies is to build nice images just with CSS. If you are interested y
 
 <br><br>
 
-### 
-Web App Security
-
-
+### Web App Security
 
 Although designing websites is my dream job, I’ve always been interested in the “hacker scene”.
 
